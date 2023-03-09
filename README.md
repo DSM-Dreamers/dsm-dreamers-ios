@@ -1,2 +1,2 @@
-# dsm-jeomechu-ios
-저메추 iOS 앱입니다.
+# dsm-dreamers-ios
+꿈 일기장 iOS 앱입니다.
